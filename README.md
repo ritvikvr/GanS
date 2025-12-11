@@ -289,7 +289,7 @@ If you use this project, please cite:
 
 ```bibtex
 @misc{ritvik2024gans,
-  author = {Ritvik Verma},
+  author = {Ritvik},
   title = {Generative Adversarial Networks: PyTorch Implementation},
   year = {2024},
   url = {https://github.com/ritvikvr/GanS},
@@ -306,7 +306,7 @@ If you use this project, please cite:
 
 ## 👤 Author
 
-**Ritvik Verma** (@ritvikvr)
+**Ritvik** (@ritvikvr)
 Computer Science Engineering Student | AI/Data Science Specialization
 GitHub: https://github.com/ritvikvr
 
